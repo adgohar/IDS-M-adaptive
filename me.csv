@@ -1,5 +1,5 @@
 item, time, matrix, first_img, second_img, third_img, fourth_img, fifth_img
-1, 15000, matrix.png, distractor1.png, distractor2.png, correct.png, distractor4.png, none
+1, 15000, matrix.png, distractor1.png, distractor2.png, correct.png, distractor3.png, distractor4.png
 2, 15000, matrix.png, 1-correct.png, 2-distractor.png, 3-distractor.png, none, none
 3, 15000, matrix.png, 1-distractor.png, 2-correct.png, 3-distractor.png, none, none
 4, 15000, matrix.png, 1-distractor.png, 2-correct.png, 3-distractor.png, 4-distractor.png, 5-distractor.png
