@@ -1,7 +1,7 @@
 item, time, target_img, triangle_yellow, triangle_yellow_mirrored, box_yellow, triangle_green, quarter_green, triangle_red, box_red, name
 1, 15000, target.png, 0, 0, 2, 0, 0, 0, 0, R06
 2, 15000, target.png, 0, 0, 2, 0, 0, 0, 0, R08
-3, 15000, target.png, 0, 0, 3, 0, 0, 0, 0, R01
+3, 15000, target.png, 0, 0, 0, 2, 0, 0, 0, R01
 4, 15000, target.png, 0, 0, 3, 0, 0, 0, 0, T01
 5, 15000, target.png, 0, 0, 4, 0, 0, 0, 0, R12
 6, 15000, target.png, 0, 0, 4, 0, 0, 0, 0, T04
