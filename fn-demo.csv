@@ -1,4 +1,4 @@
-rank, id, time, target_img, triangle_yellow, triangle_yellow_mirrored, box_yellow, triangle_green, quarter_green, triangle_red, box_red, name, category
+rank, id, time, target_img, triangle_yellow, triangle_yellow_mirrored, box_yellow, triangle_green, quarter_green, triangle_red, box_red, name, block
 1, 1, 180000, target.png, 0, 0, 0, 0, 4, 0, 0, R06, 1
 2, 2, 180000, target.png, 0, 0, 0, 4, 0, 0, 0, R08, 1
 3, 3, 180000, target.png, 0, 0, 0, 2, 0, 0, 0, R01, 1
